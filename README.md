@@ -14,3 +14,6 @@
 
 ##### 4. Запускаем приложение через браузер
 ![image](https://github.com/user-attachments/assets/feddb08f-75e2-426a-9e7b-7e88e986a82b)
+
+##### 5. Запускаем приложение через эмулятор
+![image](https://github.com/user-attachments/assets/b5567170-e791-4a1c-a372-d1070366cfbf)
